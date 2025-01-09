@@ -12,7 +12,7 @@ Dados, informações e códigos para te auxiliar no aprendizado do uso de lingua
 
 /
 
-Visite o [Website] (https://rafaeldocmacedo.github.io/Pilulas-do-GEE) do Pilulas do GEE e tenha acesso à informações úteis à área do sensoriamento remoto e sistemas de informações geográficas e ao material didático.
+Visite o [Website](https://rafaeldocmacedo.github.io/Pilulas-do-GEE) do Pilulas do GEE e tenha acesso à informações úteis à área do sensoriamento remoto e sistemas de informações geográficas e ao material didático.
 
 /
 
