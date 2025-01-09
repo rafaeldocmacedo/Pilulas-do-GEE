@@ -1,5 +1,4 @@
-# Pilulas-do-GEE
-
+# Pilulas-do-GEE  
 ###### por Rafael Freire de Macêdo  
 Dados, informações e códigos para te auxiliar no aprendizado do uso de linguagens de programação e ferramentas para sensoriamento remoto e sistemas de informação geográfica.  
 ### Website Pilulas do GEE  
